@@ -1,0 +1,11 @@
+{
+    "name": "jmg/vafpress-post-formats-ui",
+    "description": "Vafpress Post Formats UI",
+    "type": "wordpress-plugin",
+    "authors": [
+        {
+            "name": "GMG Tech",
+            "email": "tech@greencastlemediagroup.com"
+        }
+    ]
+}
